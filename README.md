@@ -1,5 +1,8 @@
 # shadowsocksr-docker
-ShadowsocksR Docker image based on https://hub.docker.com/r/breakwa11/shadowsocksr/~/dockerfile/
+ShadowsocksR python server Docker image
+
+Based on https://hub.docker.com/r/breakwa11/shadowsocksr/
+
 https://hub.docker.com/r/icet/shadowsocksr/
 
 ## Start the container
