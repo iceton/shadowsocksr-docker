@@ -1,8 +1,9 @@
 # shadowsocksr-docker
 ShadowsocksR Docker image based on https://hub.docker.com/r/breakwa11/shadowsocksr/~/dockerfile/
+https://hub.docker.com/r/icet/shadowsocksr/
 
 ## Start the container
-    docker run -d -p 51888:51888/tcp -p 51888:51888/udp -e PASSWORD='password' --restart always iceton/shadowsocksr
+    docker run -d -p 51888:51888/tcp -p 51888:51888/udp -e PASSWORD='password' --restart always icet/shadowsocksr
 
 ## Config options and defaults
 
